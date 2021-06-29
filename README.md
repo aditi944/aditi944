@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Jha
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on frontend pages
 - 📫 you can reach me through mail
 
