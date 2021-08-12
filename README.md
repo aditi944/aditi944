@@ -1,5 +1,4 @@
 
-<!---
 
 
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Aditi Jha <img
@@ -28,7 +27,7 @@ style='margin-right:"1200px";margin-left:250px;'/> -->
 - ⚡ Fun fact **I love to sleep and binge watch**
 
 
-
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sandy27" target="blank"><img align="center"
