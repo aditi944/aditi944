@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Aditi Jha <img
+<h1 align="center"> नमस्ते (Namste) 🙏🏻 , I'm Aditi Jha <img
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
 width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png"
@@ -14,7 +14,7 @@ style='margin-right:"1200px";margin-left:250px;'/> -->
 
 - 🔭 I’m currently working on DSA 
 
-- 🌱 I’m currently learning **ReactJS and Figma 🤣**
+- 🌱 I’m currently learning **ReactJS and Figma �**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/aditi944/]
