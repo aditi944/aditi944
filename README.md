@@ -1,106 +1,33 @@
+# 💫About Me :
+🔭 I’m currently working on my problem solving skills
 
+🌱 I’m currently learning MERN
 
+👨‍💻 All of my projects are available at [https://github.com/aditi944/]
 
-<h1 align="center"> नमस्ते (Namste) 🙏🏻 , I'm Aditi Jha <img
-src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-width="30px"> ! </h1>
-<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png"
-style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
+💬 Ask me about HTML,CSS,JAVASCRIPT
 
+📫 Reach me at aditijha201200@gmail.com
 
-<h3> 🧑 About me </h3>
+📄 Know about my experiences https://www.linkedin.com/in/aditi-j-620a16196/
 
-- 🔭 I’m currently working on DSA 
+⚡ Fun fact I love to sleep and binge watch
 
-- 🌱 I’m currently learning **ReactJS and Figma �**
+## 🌐Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aditijha8) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Aditi Jha #2042) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditijha2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditijha01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aditijha201200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AditiJha201200) 
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/aditi944/]
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=aditi944&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aditi944&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi944&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
-- 📫 How to reach me **aditijha201200@gmail.com**
-- 📄 Know about my experiences
-[https://www.linkedin.com/in/aditi-j-620a16196/](https://www.linkedin.com/in/aditi-j-620a16196/)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- ⚡ Fun fact **I love to sleep and binge watch**
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-
-<!---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sandy27" target="blank"><img align="center"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-alt="sandy27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-sharan-6075a9185/"
-target="blank"><img align="center"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-alt="https://www.linkedin.com/in/sandeep-sharan-6075a9185/"
-height="30" width="40" /></a>
-<a href="https://instagram.com/ss_sandy27" target="blank"><img
-align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-alt="ss_sandy27" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-alt="bootstrap" width="40" height="40"/> </a> <a
-href="https://www.cprogramming.com/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-alt="c" width="40" height="40"/> </a> <a
-href="https://www.w3schools.com/cpp/" target="_blank"> <img
-src="https://raw.githusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-alt="cplusplus" width="40" height="40"/> </a> <a
-href="https://www.w3schools.com/css/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-alt="css3" width="40" height="40"/> </a> <a
-href="https://www.docker.com/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-alt="docker" width="40" height="40"/> </a> <a
-href="https://flutter.dev" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-alt="html5" width="40" height="40"/> </a> <a
-href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="javascript" width="40" height="40"/> </a> <a
-href="https://www.mathworks.com/" target="_blank"> <img
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"
-alt="matlab" width="40" height="40"/> </a> <a
-href="https://www.mongodb.com/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-alt="mongodb" width="40" height="40"/> </a> <a
-href="https://nodejs.org" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-alt="nodejs" width="40" height="40"/> </a> <a
-href="https://www.python.org" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="python" width="40" height="40"/> </a> <a
-href="https://reactjs.org/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=sandyglb27&show_icons=true&locale=en&layout=compact"
-alt="sandyglb27" /></p>
-
-<p>&nbsp;<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=sandyglb27&show_icons=true&locale=en"
-alt="sandyglb27" /></p>
-
-<p><img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sandyglb27&"
-alt="sandyglb27" /></p>
-
-
-**Visitors Count**
-![VisitorCount](https://profile-counter.glitch.me/{aditi944}/count.svg)
-
---->
-
-<!---
-aditi944/aditi944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=aditi944&icon=0&color=0)](https://visitcount.itsvg.in)
